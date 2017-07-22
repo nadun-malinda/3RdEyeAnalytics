@@ -89,7 +89,7 @@
                 <div class="row text-center">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/sam.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Sam.png" alt="Card image cap">
                         <p class="c-title">Sam Sri</p>
                         <p class="c-sub-title">CEO / Principal Consultant</p>
                         <p class="card-text">
@@ -106,7 +106,7 @@
                     <hr class="hidden-md-up">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/rhys.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Rhys.png" alt="Card image cap">
                         <p class="c-title">Rhys Moult</p>
                         <p class="c-sub-title">Business and Strategy Advisor</p>
                         <p class="card-text">
@@ -120,7 +120,7 @@
                     <hr class="hidden-md-up">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/sanjeev.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Sanjeev.png" alt="Card image cap">
                         <p class="c-title">Sanjeev Singh</p>
                         <p class="c-sub-title">Research and Statistics Advisor </p>
                         <p class="card-text">
@@ -138,7 +138,7 @@
                 <div class="row text-center">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/robert.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Robert.png" alt="Card image cap">
                         <p class="c-title">Robert Hutton</p>
                         <p class="c-sub-title">Customer Service Consultant </p>
                         <p class="card-text">
@@ -152,7 +152,7 @@
                     <hr class="hidden-md-up">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/sian.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Sian.png" alt="Card image cap">
                         <p class="c-title">Sian Halliday Wynes</p>
                         <p class="c-sub-title">Senior Research Consultant </p>
                         <p class="card-text">
@@ -166,7 +166,7 @@
                     <hr class="hidden-md-up">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/sathika.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Sathika.png" alt="Card image cap">
                         <p class="c-title">Sathika Silva</p>
                         <p class="c-sub-title">Senior Data Analytics Consultant</p>
                         <p class="card-text">
@@ -184,7 +184,7 @@
                 <div class="row text-center">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/eranda.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Eranda.png" alt="Card image cap">
                         <p class="c-title">Eranda Lakshantha</p>
                         <p class="c-sub-title">ICT Consultant</p>
                         <p class="card-text">
@@ -198,7 +198,7 @@
                     <hr class="hidden-md-up">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/udeni.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Udeni.png" alt="Card image cap">
                         <p class="c-title">Udeni Chand</p>
                         <p class="c-sub-title">Data Analyst</p>
                         <p class="card-text">
@@ -212,7 +212,7 @@
                     <hr class="hidden-md-up">
 
                     <div class="col-sm-4 contact-card">
-                        <img class="card-img-top" src="img/team/nandun2.png" alt="Card image cap">
+                        <img class="card-img-top" src="img/team/Nandun2.png" alt="Card image cap">
                         <p class="c-title">Nandun Malinda</p>
                         <p class="c-sub-title">Web / Software Developer</p>
                         <p class="card-text">
